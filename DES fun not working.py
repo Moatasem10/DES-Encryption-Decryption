@@ -45,6 +45,7 @@ def p_box2 (input) :
     #print(output)
     return hexify(output)
 
+print("help")
 
 
 def s_box (line_input) :
